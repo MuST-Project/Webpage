@@ -983,7 +983,7 @@ span.alert {
 	left: 50%;
 	-webkit-transform: translate3d(-50%, 0, 0);
 	transform: translate3d(-50%, 0, 0);
-	background-color: #38353F;
+	background-color:#CC00CC;
 }
 
 #masthead ul.menu ul {
