@@ -983,7 +983,7 @@ span.alert {
 	left: 50%;
 	-webkit-transform: translate3d(-50%, 0, 0);
 	transform: translate3d(-50%, 0, 0);
-	background-color:#339900;
+	background-color:#336600;
 }
 
 #masthead ul.menu ul {
@@ -1249,7 +1249,7 @@ span.alert {
 #home .sub-heading .tagline {
 	margin: 0;
 	font-size: 1.2em;
-	color: #6667ab;
+	color: #FF0000;
 }
 #home .sub-heading .sub-heading a {
 	border: none;
@@ -1262,7 +1262,7 @@ span.alert {
 }*/
 
 #home .venue {
-	background-color: #117864;
+	background-color: #FF0000;
 }
 #home .venue .panel-title {
 	margin: 0;
