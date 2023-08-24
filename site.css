@@ -540,7 +540,7 @@ body {
 a {
 	text-decoration: none;
 	color: #B5502C;
-	border-bottom: 1px solid #d87e5c;
+	border-bottom: 1px solid #FFCC00;
 	transition: all 0.2s ease;
 }
 a:hover {
