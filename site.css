@@ -1038,11 +1038,11 @@ span.alert {
 	-o-transition: all 0.2s;
 	transition: all 0.2s;
 	color: #999999;
-	color: #d87e5c;
+	color: #FFCC00;
 }
 #masthead ul.menu > li a.active,
 #masthead ul.menu > li a:hover {
-	color: #d87e5c;
+	color: #FFCC00;
 	color: #fff;
 }
 #masthead ul.menu > li a:hover:after {
